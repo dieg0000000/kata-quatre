@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("kata-quatre")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e17b0ffc32519e5b99507e88f603c986e7a8bf75")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+70218d1c21af76cea531a9873f20f9a0fd8dbfb3")]
 [assembly: System.Reflection.AssemblyProductAttribute("kata-quatre")]
 [assembly: System.Reflection.AssemblyTitleAttribute("kata-quatre")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
